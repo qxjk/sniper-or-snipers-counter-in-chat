@@ -31,7 +31,7 @@ function s:announce()
         good_news_msg("ALL SNIPERS KILLED")
     else
         local prefix = (self.alive == 1) and "SNIPER: " or "SNIPERS: "
-        warn_msg(prefix .. tostring(self.alive))
+        warning_msg(prefix .. tostring(self.alive))
     end
 end
 
