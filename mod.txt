@@ -1,0 +1,22 @@
+{
+  "name": "sniper-or-snipers-counter-in-chat",
+  "description": "description",
+  "author": "author",
+  "contact": "contact",
+  "version": "1.0",
+  "blt_version": 2,
+  "hooks": [
+    {
+      "hook_id": "lib/setups/gamesetup",
+      "script_path": "sniper-or-snipers-counter-in-chat.lua"
+    }
+  ],
+  "updates": [
+    {
+      "identifier": "sniper-or-snipers-counter-in-chat",
+      "host": {
+        "meta": "https://raw.githubusercontent.com/qxjk/sniper-or-snipers-counter-in-chat/main/meta.json"
+      }
+    }
+  ]
+}

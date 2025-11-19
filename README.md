@@ -1,2 +1,1 @@
-# sniper-or-snipers-counter-in-chat
-
+sniper-or-snipers-counter-in-chat
