@@ -3,7 +3,7 @@
   "description": "description",
   "author": "author",
   "contact": "contact",
-  "version": "1.0",
+  "version": "1.1",
   "blt_version": 2,
   "hooks": [
     {

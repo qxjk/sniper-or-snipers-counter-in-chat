@@ -1,7 +1,7 @@
 sniper = sniper or { alive = 0 }
 local s = sniper
 
-local function warn_msg(text)
+local function warning_msg(text)
     if managers.chat then
         managers.chat:_receive_message(1, "WARNING", text, Color.red)
     elseif managers.hud then
